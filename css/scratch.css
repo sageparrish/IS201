@@ -1,0 +1,40 @@
+
+body {
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+h2 {
+    color: #1abc9c;
+}
+
+a {
+    color: #e67e22;
+}
+
+.div1 {
+    background-color: #dff0d8;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.div2 {
+    background-color: #f2dede;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.div3 {
+    background-color: #d9edf7;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
